@@ -1,0 +1,19 @@
+{
+  "name": "Chaos Frederick",
+  "description": "This is the castle set of Chaos Frederick",
+  "author": "D1yy",
+  "link": "https://github.com/D1yy-0/Stronghold-Crusader-Chaos-mod",
+  "version": "1.0.1",
+  "defaultLang": "en",
+  "supportedLang": ["en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": false,
+    "aiv": true,
+    "lord": false,
+    "startTroops": false,
+    "lines": false,
+    "portrait": false
+  }
+}
